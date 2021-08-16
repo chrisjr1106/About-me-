@@ -1,0 +1,35 @@
+body{
+	background-color: #F2D0A4;
+	background-image: url("")
+}
+#myNavbar {
+	background-color: #FC7A57
+}
+#NavItems {
+	padding: 15px 0px 15px 0px;
+	text-align: right;
+}
+#NavItems li{
+	display: inline;
+	margin-right: 10px;
+}
+
+NYC.jpegImage {
+	height: 80vh;
+	background-image: url("");
+	background-size: cover;
+}
+
+#AboutSection{
+	text-align: center;
+}
+#AboutSection div {
+	margin-top: 20px
+}
+#AboutSection p {
+	font-size: 25px;
+}
+.AboutImage{
+	width: 75%;
+	border-radius: 75px;
+}
