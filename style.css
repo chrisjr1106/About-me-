@@ -7,17 +7,11 @@ body{
 }
 #NavItems {
 	padding: 15px 0px 15px 0px;
-	text-align: right;
+	text-align: middle;
 }
 #NavItems li{
 	display: inline;
 	margin-right: 10px;
-}
-
-NYC.jpegImage {
-	height: 80vh;
-	background-image: url("");
-	background-size: cover;
 }
 
 #AboutSection{
@@ -31,5 +25,9 @@ NYC.jpegImage {
 }
 .AboutImage{
 	width: 75%;
-	border-radius: 75px;
+	border-radius: 100px;
+}
+.honda.jpegImage{
+  width: 75%;
+  border-radius: 100px;
 }
